@@ -1,3 +1,4 @@
+import React from 'react';
 //styles
 import classes from './StartingPageContent.module.css';
 

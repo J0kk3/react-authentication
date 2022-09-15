@@ -1,3 +1,4 @@
+import React from 'react';
 //components
 import AuthForm from '../components/Auth/AuthForm';
 

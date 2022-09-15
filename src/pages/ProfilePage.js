@@ -1,3 +1,4 @@
+import React from 'react';
 //components
 import UserProfile from '../components/profile/user-profile';
 
